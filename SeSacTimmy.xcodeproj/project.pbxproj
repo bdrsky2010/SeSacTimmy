@@ -51,9 +51,7 @@
 		7B5A948E2CB4F67C00F7E6A7 /* SeSacTimmy */ = {
 			isa = PBXGroup;
 			children = (
-				7B5A948F2CB4F67C00F7E6A7 /* SeSacTimmyApp.swift */,
-				7B5A94912CB4F67C00F7E6A7 /* ContentView.swift */,
-				7B5A94932CB4F67D00F7E6A7 /* Assets.xcassets */,
+				7B5A949D2CB4F8A200F7E6A7 /* Timmy */,
 				7B5A94952CB4F67D00F7E6A7 /* Preview Content */,
 			);
 			path = SeSacTimmy;
@@ -65,6 +63,16 @@
 				7B5A94962CB4F67D00F7E6A7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7B5A949D2CB4F8A200F7E6A7 /* Timmy */ = {
+			isa = PBXGroup;
+			children = (
+				7B5A948F2CB4F67C00F7E6A7 /* SeSacTimmyApp.swift */,
+				7B5A94912CB4F67C00F7E6A7 /* ContentView.swift */,
+				7B5A94932CB4F67D00F7E6A7 /* Assets.xcassets */,
+			);
+			path = Timmy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
