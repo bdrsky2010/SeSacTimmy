@@ -51,7 +51,7 @@
 		7B5A948E2CB4F67C00F7E6A7 /* SeSacTimmy */ = {
 			isa = PBXGroup;
 			children = (
-				7B5A949D2CB4F8A200F7E6A7 /* Timmy */,
+				7B5A949E2CB4FA3400F7E6A7 /* Cosmo */,
 				7B5A94952CB4F67D00F7E6A7 /* Preview Content */,
 			);
 			path = SeSacTimmy;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		7B5A949D2CB4F8A200F7E6A7 /* Timmy */ = {
+		7B5A949E2CB4FA3400F7E6A7 /* Cosmo */ = {
 			isa = PBXGroup;
 			children = (
 				7B5A948F2CB4F67C00F7E6A7 /* SeSacTimmyApp.swift */,
 				7B5A94912CB4F67C00F7E6A7 /* ContentView.swift */,
 				7B5A94932CB4F67D00F7E6A7 /* Assets.xcassets */,
 			);
-			path = Timmy;
+			path = Cosmo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
